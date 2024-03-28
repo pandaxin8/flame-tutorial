@@ -2,6 +2,8 @@
 
 A tutorial on Flame Platformers for Flutter Development. This is a Klondlike-game.
 
+![Screenshot 2024-03-28 134620](https://github.com/pandaxin8/flame-tutorial/assets/59786364/7a645543-425d-45e2-aed6-0fa405c36bc4)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
