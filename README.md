@@ -1,6 +1,6 @@
-# flame_tutorial
+# Flame Tutorial
 
-A new Flutter project.
+A tutorial on Flame Platformers for Flutter Development. This is a Klondlike-game.
 
 ## Getting Started
 
